@@ -11,7 +11,13 @@ I am both a team player and a confident leader, adaptable, and eager to apply my
  <!-- Replace with a short description about you -->
 ## Projects
 
-[Android Ride Share App](https://github.com/sampjvv/WheatonRideShare)
+- [Android Ride Share App](https://github.com/sampjvv/WheatonRideShare)
+   Simple Ride Sharing app allowing users to login, add posts, and message other users.
+- [Trucking Company Database Simulation](https://github.com/schwar78/DB-Project)
+  Smaple database allowing employees to access company data
 
-## Links
+## LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/sarah-schwartz-6bb8a527b/) <!-- Replace with your LinkedIn link --> <!-- Replace with your Twitter link, if you want -->
+
+
+
