@@ -18,7 +18,7 @@ I am both a team player and a confident leader, adaptable, and eager to apply my
   
 - [Trucking Company Database Simulation](https://github.com/schwar78/DB-Project)
   
-  Smaple database allowing employees to access company data
+  Sample database allowing employees to access company data
 
 ## LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/sarah-schwartz-6bb8a527b/) <!-- Replace with your LinkedIn link --> <!-- Replace with your Twitter link, if you want -->
