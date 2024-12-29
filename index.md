@@ -4,9 +4,9 @@
 
 
 ## About Me
-I am a recent college graduate as of December 2024 with a degree in Computer Science and a minor in Mathematics from Wheaton College IL. I am both a team player a confident leader, adaptable, and eager to apply my skills to new challenges. Aside from my programming, I am also passionate about education, and problem-solving. 
+I'm a recent Computer Science graduate with a minor in Mathematics from Wheaton College, IL. Throughout my academic journey, I've developed a strong foundation in programming, problem-solving, and collaborative teamwork. I am passionate about leveraging technology to solve complex problems and continuously seek opportunities to grow my skills and contribute to impactful projects. I am particularly excited to explore opportunities in software development, IT consulting, and product or project management, where I can serve as a mediator between technical teams and stakeholders or customers to deliver better solutions
 
-Moving forward I am hoping to explore opportunities in software development, IT consulting, or product or project management. I enjoy problem-solving and want to work in a collaborative environment working to find better solutions. I want to work with tech and be a mediator between engineers and other team members. I believe that a lot of problems can be avoided through clear communication and I hope to bring that to whatever team I am a apart of. 
+In addition to my technical abilities, I am deeply passionate about education and sharing knowledge, helping others to grow and understand complex concepts. My goal is to work in a dynamic and collaborative environment where I can continue learning and contribute to creating efficient, scalable solutions.
  <!-- Replace with a short description about you -->
 ## Contact Information
 Feel free to reach out for opportunities or collaborations!
