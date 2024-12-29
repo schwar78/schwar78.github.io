@@ -23,13 +23,13 @@ I am both a team player and a confident leader, adaptable, and eager to apply my
 
   
 - [Trucking Company Database Simulation](https://github.com/schwar78/DB-Project)
-   Sample database allowing employees to access company data
+   Sample database allowing employees to access company data.
    Using: Javascript, PHP, and MAMP
 
 - [Lost and Found Spreadsheet](https://github.com/schwar78/Lost-and-Found/tree/main)
 
 
-  <img src="Screenshot 2024-12-28 215004.png" alt="Sarah Schwartz" style="width:500px;">
+  <img src="Screenshot 2024-12-28 215004.png" alt="Sarah Schwartz" style="width:650px;">
   
   
 
