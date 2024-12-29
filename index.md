@@ -1,6 +1,9 @@
 # Welcome to My Portfolio
 Hi, I'm Sarah Schwartz. <!-- Replace [Your Name] with your real name -->
 
+<img src="images/your-photo.jpg" alt="Sarah Schwartz" style="width:150px; border-radius:50%;">
+
+
 ## About Me
 I am a recent college graduate exploring oppertunities and looking to get involved in software development. I am Hardworking, reliable, and creative programmer with a strong focus on design. I thrive on problem-solving, collaboration, and teaching.
 
