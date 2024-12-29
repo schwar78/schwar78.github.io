@@ -12,8 +12,12 @@ I am both a team player and a confident leader, adaptable, and eager to apply my
 ## Projects
 
 - [Android Ride Share App](https://github.com/sampjvv/WheatonRideShare)
+  
    Simple Ride Sharing app allowing users to login, add posts, and message other users.
+
+  
 - [Trucking Company Database Simulation](https://github.com/schwar78/DB-Project)
+  
   Smaple database allowing employees to access company data
 
 ## LinkedIn
