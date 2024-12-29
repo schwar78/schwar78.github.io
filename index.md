@@ -4,9 +4,9 @@
 
 
 ## About Me
-I am a recent college graduate exploring oppertunities and looking to get involved in software development. I am Hardworking, reliable, and creative programmer with a strong focus on design. I thrive on problem-solving, collaboration, and teaching.
+I am a recent college graduate as of December 2024 with a degree in Computer Science and a minor in Mathematics from Wheaton College IL. I am both a team player a confident leader, adaptable, and eager to apply my skills to new challenges. Aside from my programming, I am also passionate about education, and problem-solving. 
 
-I am both a team player and a confident leader, adaptable, and eager to apply my skills to new challenges. My background in teaching has taught me to communicate complex concepts clearly and effectively. Beyond my academic work, I am passionate about programming, and dedicating time to challenges like Advent of Code.
+Moving forward I am hoping to explore opportunities in software development, IT consulting, or product or project management. I enjoy problem-solving and want to work in a collaborative environment working to find better solutions. I want to work with tech and be a mediator between engineers and other team members. I believe that a lot of problems can be avoided through clear communication and I hope to bring that to whatever team I am a apart of. 
  <!-- Replace with a short description about you -->
 ## Contact Information
 Feel free to reach out for opportunities or collaborations!
