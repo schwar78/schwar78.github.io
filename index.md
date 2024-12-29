@@ -1,5 +1,4 @@
-# Welcome to My Portfolio
-Hi, I'm Sarah Schwartz. <!-- Replace [Your Name] with your real name -->
+# Hello, I'm Sarah Schwartz
 
 <img src="Square Headshot.jpg" alt="Sarah Schwartz" style="width:150px;">
 
