@@ -1,4 +1,4 @@
-# Hello, I'm Sarah Schwartz
+# Hello, I'm Sarah Schwartz!
 
 <img src="Square Headshot.jpg" alt="Sarah Schwartz" style="width:150px;">
 
