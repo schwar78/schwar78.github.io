@@ -1,7 +1,7 @@
 # Welcome to My Portfolio
 Hi, I'm Sarah Schwartz. <!-- Replace [Your Name] with your real name -->
 
-<img src="Square Headshot.jpg" alt="Sarah Schwartz" style="width:150px; border-radius:50%;">
+<img src="Square Headshot.jpg" alt="Sarah Schwartz" style="width:150px;">
 
 
 ## About Me
