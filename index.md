@@ -9,19 +9,32 @@ I am a recent college graduate exploring oppertunities and looking to get involv
 
 I am both a team player and a confident leader, adaptable, and eager to apply my skills to new challenges. My background in teaching has taught me to communicate complex concepts clearly and effectively. Beyond my academic work, I am passionate about programming, and dedicating time to challenges like Advent of Code.
  <!-- Replace with a short description about you -->
+## Contact Information
+- Email: Sarahbox27@gmail.com
+- Phone: (763)-464-4892
+- [LinkedIn](https://www.linkedin.com/in/sarah-schwartz-6bb8a527b/)
+ 
 ## Projects
 
 - [Android Ride Share App](https://github.com/sampjvv/WheatonRideShare)
-  
    Simple Ride Sharing app allowing users to login, add posts, and message other users.
+   Using: Android Studio and java
+  
 
   
 - [Trucking Company Database Simulation](https://github.com/schwar78/DB-Project)
+   Sample database allowing employees to access company data
+   Using: Javascript, PHP, and MAMP
   
-  Sample database allowing employees to access company data
 
-## LinkedIn
-- [LinkedIn](https://www.linkedin.com/in/sarah-schwartz-6bb8a527b/) <!-- Replace with your LinkedIn link --> <!-- Replace with your Twitter link, if you want -->
-
+## Skills
+- Java
+- Python
+- some SML
+- SQL
+- C
+- Excel
+- Microsoft Word
+- Git
 
 
