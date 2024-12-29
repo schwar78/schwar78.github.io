@@ -48,3 +48,6 @@ Feel free to reach out for opportunities or collaborations!
 - Google Sheets App Script
 
 
+[Download my Resume](Schwartz, Sarah Resume 2024.pdf)
+
+
