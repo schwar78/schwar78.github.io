@@ -18,7 +18,7 @@ I am both a team player and a confident leader, adaptable, and eager to apply my
 
 - [Android Ride Share App](https://github.com/sampjvv/WheatonRideShare)
    Simple Ride Sharing app allowing users to login, add posts, and message other users.
-   Using: Android Studio and java
+  **Technologies Used**: Android Studio and java
   
 
   
