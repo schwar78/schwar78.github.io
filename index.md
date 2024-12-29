@@ -10,6 +10,8 @@ I am a recent college graduate exploring oppertunities and looking to get involv
 I am both a team player and a confident leader, adaptable, and eager to apply my skills to new challenges. My background in teaching has taught me to communicate complex concepts clearly and effectively. Beyond my academic work, I am passionate about programming, and dedicating time to challenges like Advent of Code.
  <!-- Replace with a short description about you -->
 ## Contact Information
+Feel free to reach out for opportunities or collaborations!
+
 - Email: Sarahbox27@gmail.com
 - Phone: (763)-464-4892
 - [LinkedIn](https://www.linkedin.com/in/sarah-schwartz-6bb8a527b/)
@@ -18,15 +20,17 @@ I am both a team player and a confident leader, adaptable, and eager to apply my
 
 - [Android Ride Share App](https://github.com/sampjvv/WheatonRideShare)
    Simple Ride Sharing app allowing users to login, add posts, and message other users.
-  **Technologies Used**: Android Studio and java
+  **Technologies Used**: Android Studio, Google Firebase, and java
   
 
   
 - [Trucking Company Database Simulation](https://github.com/schwar78/DB-Project)
    Sample database allowing employees to access company data.
-   Using: Javascript, PHP, and MAMP
+  **Technologies Used**: Javascript, PHP, and MAMP
 
 - [Lost and Found Spreadsheet](https://github.com/schwar78/Lost-and-Found/tree/main)
+   Spreadsheet to keep track of lost and found items at my current job at as service desk attendent.
+  **Technologies Used**: Javascript, Google Sheets, and App Scripts
 
 
   <img src="Screenshot 2024-12-28 215004.png" alt="Sarah Schwartz" style="width:650px;">
