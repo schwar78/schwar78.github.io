@@ -1,7 +1,7 @@
 # Welcome to My Portfolio
 Hi, I'm Sarah Schwartz. <!-- Replace [Your Name] with your real name -->
 
-<img src="images/your-photo.jpg" alt="Sarah Schwartz" style="width:150px; border-radius:50%;">
+<img src="photo (4 of 19) (1).jpg" alt="Sarah Schwartz" style="width:150px; border-radius:50%;">
 
 
 ## About Me
