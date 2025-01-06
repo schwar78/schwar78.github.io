@@ -10,7 +10,9 @@ In addition to my technical abilities, I am deeply passionate about education an
  <!-- Replace with a short description about you -->
 ## Contact Information
 Feel free to reach out for opportunities or collaborations!
-
+- Email: Sarahbox27@gmail.com
+- Phone: (763)-464-4892
+- [LinkedIn](https://www.linkedin.com/in/sarah-schwartz-6bb8a527b/)
 
  
 ## Projects
