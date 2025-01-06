@@ -1,6 +1,7 @@
 #theme: jekyll-theme-cayman
 
 title: Sarah Schwartz
+description: Graduate from Wheaton College with a Degree in Computer Science
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
