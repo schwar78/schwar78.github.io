@@ -49,6 +49,6 @@ Feel free to reach out for opportunities or collaborations!
 
 
 ## Testing
-[About Me](/about.md/)
+[About Me](/about.md)
 
 
